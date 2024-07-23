@@ -1,1 +1,1 @@
-this is a conflict file from develop branch
+this is my file from testconflict branch
