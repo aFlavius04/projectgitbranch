@@ -1,1 +1,1 @@
-this is a file from develop branch for conflict testing
+this is a file for test conflict
